@@ -1,2 +1,2 @@
-# AI-Maniac
-Projects related to AI/ML and their branches
+# Snakes and Ladders Game
+This repository contains the source code and the screenshots of the working implementation of the Snakes and Ladders game.
